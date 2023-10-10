@@ -1,1 +1,1 @@
-# Titanic survivors prediction with random forest classifier and CV
+# Titanic survivors prediction with random forest classifier
